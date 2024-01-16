@@ -18,8 +18,8 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
-    background-color: black;
     height: 30px;
     padding: 20px;
+    /* background-image: linear-gradient(360deg,transparent,rgba(37,37,37,1)); */
 
 }
