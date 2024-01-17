@@ -20,9 +20,15 @@
     cursor: pointer;
 
 }
+.poster:hover{
+    transform: scale(1.1);
+}
 
 .smallposter{
     max-height: 150px;
     margin-right: 20px;
     cursor: pointer;
+}
+.smallposter:hover{
+    transform: scale(1.1);
 }
